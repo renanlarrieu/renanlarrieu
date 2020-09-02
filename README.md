@@ -1,4 +1,6 @@
 
+## Hi, my name is Renan.
+To know more about me check out my personal [website](https://renanlarrieu.github.io/)
 
 <br />
 
@@ -9,7 +11,7 @@
 ![C++](https://img.shields.io/badge/-C++-000000?style=plastic&logo=C%2B%2B&logoColor=lightgray)
 ![Python](https://img.shields.io/badge/-Python-000000?style=plastic&logo=python&logoColor=lightgray)
 ![Latex](https://img.shields.io/badge/-LaTex-000000?style=plastic&logo=LaTex&logoColor=lightgray)
-![Linux](https://img.shields.io/badge/-Linux-green)
+<!-- ![Linux](https://img.shields.io/badge/-Linux-green) -->
 
 <!--  ![Matlab](https://img.shields.io/badge/-Matlab-000000?style=plastic&logo=Mathworks&logoColor=lightgray) -->
 
