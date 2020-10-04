@@ -1,7 +1,7 @@
 
 ## Hi, my name is Renan.
 
-I'm 20, I live in Rio de Janeiro and I'm studying Electrical Engineering. I love science, especially rocket science and astronomy, also tecnology, and I'm always looking for experience and projects to contribute, not only in GitHub.
+I'm 20, I live in Rio de Janeiro and I'm studying Electrical Engineering. I love science, especially rocket science, astronomy, also tecnology, and I'm always looking for experience and projects to contribute, not only in GitHub.
 
 To know more about me check out my personal [**website**](https://renanlarrieu.github.io/)
 
