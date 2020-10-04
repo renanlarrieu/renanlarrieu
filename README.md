@@ -1,7 +1,15 @@
 
 ## Hi, my name is Renan.
 
-To know more about me check out my personal [website](https://renanlarrieu.github.io/)
+I'm 20, I live in Rio de Janeiro and I'm studying Electrical Engineering. I love science, especially rocket science and astronomy, also tecnology, and I'm always looking for experience and projects to contribute, not only in GitHub.
+
+To know more about me check out my personal [**website**](https://renanlarrieu.github.io/)
+
+![falcon9](https://user-images.githubusercontent.com/44936458/95027021-c3bad200-066b-11eb-8bee-33fff60e56d1.jpg)
+
+
+
+
 <!--
 <br />
 
@@ -26,12 +34,9 @@ To know more about me check out my personal [website](https://renanlarrieu.githu
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on power electronics and university rocket telemetry projects.
+- 🌱 I’m currently learning how to use VIVADO HLS to generate IP's and do real time simulation.
+- 👯 Now I'm not looking to collaborate in any project.
+- 🤔 I’m looking for help with FPGA designs.
+- 💬 I love to talk about rocket science, rick and morty and rock. 
 -->
