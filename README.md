@@ -11,7 +11,7 @@ To know more about me check out my personal [**website**](https://renanlarrieu.g
 
 [***Training Certificates***](https://github.com/renanlarrieu/renanlarrieu/tree/master/Certificados%20Capacita%C3%A7%C3%B5es)
 
-Curriculum Vitae [Portuguese](https://github.com/renanlarrieu/renanlarrieu/blob/master/CV/Renan%20Larrieu%20de%20Abreu%20Mour%C3%A3o%20CV.pdf)|[English](https://github.com/renanlarrieu/renanlarrieu/blob/master/CV/Renan%20Larrieu%20de%20Abreu%20Mour%C3%A3o%20CV%20-%20EN.pdf)
+Curriculum Vitae [Portuguese](https://github.com/renanlarrieu/renanlarrieu/blob/master/CV/Renan%20Larrieu%20de%20Abreu%20Mour%C3%A3o%20CV.pdf)|[English]([https://github.com/renanlarrieu/renanlarrieu/blob/master/CV/Renan%20Larrieu%20de%20Abreu%20Mour%C3%A3o%20CV%20-%20EN.pdf](https://github.com/renanlarrieu/renanlarrieu/blob/master/CV/CV_EN.pdf))
 
 My last project was [Rocket Engine Data Analysis](https://github.com/renanlarrieu/Rocket-Engine-Data-Analysis)
 
