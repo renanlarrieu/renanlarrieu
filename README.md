@@ -13,7 +13,7 @@ To know more about me check out my personal [**website**](https://renanlarrieu.g
 
 Curriculum Vitae [Portuguese](https://github.com/renanlarrieu/renanlarrieu/blob/master/CV/Renan%20Larrieu%20de%20Abreu%20Mour%C3%A3o%20CV.pdf)|[English](https://github.com/renanlarrieu/renanlarrieu/blob/master/CV/CV_EN.pdf)
 
-My last project was [Rocket Engine Data Analysis](https://github.com/renanlarrieu/Rocket-Engine-Data-Analysis)
+My last project was to develop a State Machine and make MonteCarlo Simulations to estimate Outage time for Power Transformers of the [Eletrobras](https://eletrobras.com/en/Paginas/Home.aspx) Group.
 
 ![falcon9](https://user-images.githubusercontent.com/44936458/95027021-c3bad200-066b-11eb-8bee-33fff60e56d1.jpg)
 <!--
