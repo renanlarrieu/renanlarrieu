@@ -3,7 +3,7 @@
 
 I'm 23, I live in Rio de Janeiro and I'm studying Electrical Engineering. I love science, especially physics, rocket science, astronomy, also tecnology, and I'm always looking for experience and projects to contribute, not only in GitHub.
 
-Currently I work as an intern at [Eletrobras](https://eletrobras.com/en/Paginas/Home.aspx)
+Currently I work as an intern at [EDF Renewables](https://www.edf-re.com/)
 
 To know more about me check out my personal [**website**](https://renanlarrieu.github.io/)
 
@@ -15,7 +15,7 @@ Curriculum Vitae [Portuguese](https://github.com/renanlarrieu/renanlarrieu/blob/
 
 My last project was to develop a State Machine and make MonteCarlo Simulations to estimate Outage time for Power Transformers of the [Eletrobras](https://eletrobras.com/en/Paginas/Home.aspx) Group.
 
-![falcon9](https://user-images.githubusercontent.com/44936458/95027021-c3bad200-066b-11eb-8bee-33fff60e56d1.jpg)
+![WTG](https://imgur.com/a/ScbwlYA)
 <!--
 <br />
 
