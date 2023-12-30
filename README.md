@@ -1,7 +1,7 @@
 
 ## Hi, my name is Renan.
 
-I'm 23, I live in Rio de Janeiro and I'm studying Electrical Engineering. I love science, especially physics, rocket science, astronomy, also tecnology, and I'm always looking for experience and projects to contribute, not only in GitHub.
+I'm 24, I live in Rio de Janeiro and I'm studying Electrical Engineering. I love science, especially physics, rocket science, astronomy, also tecnology, and I'm always looking for experience and projects to contribute, not only in GitHub.
 
 Currently I work as an intern at [EDF Renewables](https://www.edf-re.com/)
 
