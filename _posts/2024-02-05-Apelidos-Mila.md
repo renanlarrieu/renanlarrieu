@@ -25,4 +25,7 @@ categories: misc
 20. cocão
 21. tartaruga
 22. barriguinha
-23. resmunguinha
+23. resmungução
+24. Apucurei
+25. chumigo
+26. filhote de piturro
