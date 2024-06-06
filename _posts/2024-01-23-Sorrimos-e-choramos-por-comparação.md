@@ -5,7 +5,7 @@ categories: misc
 author: "Chico de TRIP"
 ---
 
-Foi no calor esbaforido de uma sala mal refrigerada que ouvi tal frase
+Foi no calor esbaforido de uma sala mau refrigerada que ouvi tal frase
 
 "Sorrimos e choramos por comparação" ou,
 
@@ -27,7 +27,7 @@ Seu até mais era seguido ou substituído por "segue o líder".
 
 Chico, no seu último semestre antes de sua aposentadoria se deleitava sobre seu próprio entusiasmo acerca do tema.
 
-Nos corredores não se falava de outra coisa,
+Nos corredores não se falava d'outra coisa,
 
 Quando o Botafogo vai perder a liderança?
 
