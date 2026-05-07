@@ -1,7 +1,7 @@
 
 ## Hi, my name is Renan.
 
-I'm 26, I live in Rueil-Malmaison and I'm Energy economics studeng. I love science, especially physics, rocket science, astronomy, also tecnology, and I'm always looking for experience and projects to contribute, not only in GitHub.
+I'm 26, I live in France and I'm Energy economics studeng. I love science, especially physics, rocket science, astronomy, also tecnology, and I'm always looking for experience and projects to contribute, not only in GitHub.
 
 Currently I work at EDF
 
