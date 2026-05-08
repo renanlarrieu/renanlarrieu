@@ -12,7 +12,6 @@ To know more about me check out my personal [**website**](https://renanlarrieu.g
 
 [***Training Certificates***](https://github.com/renanlarrieu/renanlarrieu/tree/master/Certificados%20Capacita%C3%A7%C3%B5es)
 
-Curriculum Vitae [Portuguese](https://github.com/renanlarrieu/renanlarrieu/blob/master/CV/Renan%20Larrieu%20de%20Abreu%20Mour%C3%A3o%20CV.pdf)|[English](https://github.com/renanlarrieu/renanlarrieu/blob/master/CV/CV_EN.pdf)
 
 [B.Sc. Project at UERJ](https://github.com/renanlarrieu/renanlarrieu/blob/master/TCC%20UERJ/TCC%20-%20Renan%20Larrieu%20-%20Final.pdf)
 
