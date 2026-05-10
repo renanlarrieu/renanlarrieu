@@ -15,9 +15,7 @@ To know more about me check out my personal [**website**](https://renanlarrieu.g
 
 [B.Sc. Project at UERJ](https://github.com/renanlarrieu/renanlarrieu/blob/master/TCC%20UERJ/TCC%20-%20Renan%20Larrieu%20-%20Final.pdf)
 
-My last project was to develop a State Machine and make MonteCarlo Simulations to estimate Outage time for Power Transformers of the [Eletrobras](https://eletrobras.com/en/Paginas/Home.aspx) Group.
 
-![WTG](https://imgur.com/a/ScbwlYA)
 <!--
 <br />
 
